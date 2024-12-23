@@ -56,22 +56,21 @@ The dataset consists of 1,000 samples with the following columns:
    ```bash
    git clone https://github.com/your-username/house-price-prediction.git
 
-	2.	Navigate to the project directory:
+2.	Navigate to the project directory:
 
-cd house-price-prediction
+		cd house-price-prediction
 
+3.	Install the required dependencies:
 
-	3.	Install the required dependencies:
-
-pip install -r requirements.txt
-
-
-	4.	Launch Jupyter Notebook:
-
-jupyter notebook
+		pip install -r requirements.txt
 
 
-	5.	Open the HousePrice.ipynb file to explore the project.
+4.	Launch Jupyter Notebook:
+
+		jupyter notebook
+
+
+5.	Open the HousePrice.ipynb file to explore the project.
 
 Usage
 	1.	Load the dataset (house_price_regression_dataset.csv).
